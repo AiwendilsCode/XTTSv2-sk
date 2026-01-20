@@ -8,6 +8,6 @@ Repository containing training code: https://github.com/anhnh2002/XTTSv2-Finetun
 
 Model repository: https://huggingface.co/Felagund/XTTSv2-sk
 
-1. Download the model from the model repository
+1. Download model.pth, vocab.json and config.json from the model repository
 2. Record audio of you speaking (6s minimal) and save it as recording.wav, in the same dir as example.py
 3. Run example.py
